@@ -6,7 +6,7 @@
 
     
 
-   ##Resumo:Estudante do 1º período de Ciência da Computação na Universidade Regional de Blumenau (FURB), com foco em me tornar desenvolvedor.
+   Resumo:Estudante do 1º período de Ciência da Computação na Universidade Regional de Blumenau (FURB), com foco em me tornar desenvolvedor.
    
 
 
